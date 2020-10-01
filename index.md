@@ -13,6 +13,7 @@
         		<li><a href="/blog">Blog</a></li>
 			<li><a href="/research projects">Research Projects</a></li>
 			<li><a href="/the future of fusion energy">The Future of Fusion Energy</a></li>
+			<a href="https://jfparisi.github.io/page1.html/">Page 1</a>
     		</ul>
 		</nav>
 		<div class="container">
