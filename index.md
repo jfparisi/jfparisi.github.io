@@ -8,11 +8,11 @@
 		<nav>
     		<ul>
         		<li><a href="/">Home</a></li>
-			<li><a href="about.html/">About</a></li>
-        		<li><a href="/cv">CV</a></li>
-        		<li><a href="/blog">Blog</a></li>
-			<li><a href="/research projects">Research Projects</a></li>
-			<li><a href="/the future of fusion energy">The Future of Fusion Energy</a></li>
+			<li><a href="/about/about.html/">About</a></li>
+        		<li><a href="/cv/cv.html">CV</a></li>
+        		<li><a href="/blog/blog.html">Blog</a></li>
+			<li><a href="/research/research_projects/html">Research Projects</a></li>
+			<li><a href="/book/book.html">The Future of Fusion Energy</a></li>
     		</ul>
 		</nav>
 		<div class="container">
