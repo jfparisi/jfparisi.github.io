@@ -1,7 +1,6 @@
-<!DOCTYPE html>
 <html>
 	<head>
-		<title>Hank Quinlan, Horrible Cop</title>
+		<title>Jason Parisi, Fusion Scientist</title>
 		<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 	</head>
@@ -12,18 +11,19 @@
 	        	<li><a href="/about">About</a></li>
         		<li><a href="/cv">CV</a></li>
         		<li><a href="/blog">Blog</a></li>
+			<li><a href="/the future of fusion energy">TheFuture</a></li>
     		</ul>
 		</nav>
 		<div class="container">
     		<div class="blurb">
         		<h1>Hi there, I'm Jason Parisi!</h1>
-				<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
+				<p>I'm a Culham Fusion Research Fellow at the Culham Centre for Fusion Energy. <a href="/about">Read more about my life...</a></p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
     		<ul>
         		<li><a href="mailto:jasonfrancisparisi@gmail.com">email</a></li>
-        		<li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
+        		<li><a href="https://github.com/jfparisi">github.com/jfparisi</a></li>
 			</ul>
 		</footer>
 	</body>
