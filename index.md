@@ -11,7 +11,8 @@
 	        	<li><a href="/about">About</a></li>
         		<li><a href="/cv">CV</a></li>
         		<li><a href="/blog">Blog</a></li>
-			<li><a href="/the future of fusion energy">TheFuture</a></li>
+			<li><a href="/research projects">Research Projects</a></li>
+			<li><a href="/the future of fusion energy">The Future of Fusion Energy</a></li>
     		</ul>
 		</nav>
 		<div class="container">
