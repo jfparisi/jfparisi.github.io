@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 logo: /img/portrait.jpeg
 title: Jason Parisi
+mathjax: true
 google_analytics:
