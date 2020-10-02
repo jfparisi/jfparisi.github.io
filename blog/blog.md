@@ -22,4 +22,6 @@ SPARC is a 'medium' sized tokamak that relies on recent advances in high tempera
 
 Arguably, in the meantime, strides have been made in computational and theoretical understanding of fusion physics, such that SPARC might not have been possible twenty years.
 
-## (+) Why fusion? 
+## (+) Why fusion? September 29 2020
+
+Building a viable nuclear fusion reactor will undoubtedly be one of humanity's greatest scientific and technological accomplishments, period. In modern society, megaprojects such as fusion are not simply funded because they are challenging, but also because they are expected to be useful. 
