@@ -4,9 +4,9 @@ layout: default
 
 # Blog
 
-Here, I will write about physics that is piquing my curiosity at any moment in time. Most of the writing is plasma physics/ fusion physics-themed. The entries will be either publicly accessible ($), somewhat technical ($$), or specialist ($$$). These views are my own, and don't necessarily reflect those of my employer. Whenever I publish a new scientific paper, I will also release a video explanation of the main paper ideas.
+Here, I will write about physics that is piquing my curiosity at any moment in time. Most of the writing is plasma physics/ fusion physics-themed. The entries will be either publicly accessible (+), somewhat technical (++), or specialist (+++). These views are my own, and don't necessarily reflect those of my employer. Whenever I publish a new scientific paper, I will also release a video explanation of the main paper ideas.
 
-## ($$) The SPARC machine, October 2nd 2020
+## (++) The SPARC machine, October 2nd 2020
 
 Disclaimer: I have no affiliation with the SPARC team, nor have I done any research on the machine.
 
@@ -18,4 +18,4 @@ Since the late 1990s, a plethora of 'fusion startups' have popped up. None of th
 
 Arguably, in the meantime, strides have been made in computational and theoretical understanding of fusion physics, such that SPARC might not have been possible twenty years.
 
-## ($) Why fusion? 
+## (+) Why fusion? 
