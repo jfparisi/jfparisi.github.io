@@ -17,7 +17,7 @@
 		</nav>
 		<div class="container">
     		<div class="blurb">
-        		<h1>Jason Parisi</h1>
+        		<!-- h1>Jason Parisi</h1> -->
 				<p>Hi there, I am a Culham Fusion Research Fellow at the Culham Centre for Fusion Energy.</p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
