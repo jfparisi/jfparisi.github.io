@@ -9,7 +9,7 @@ Here, I will write about physics that is piquing my curiosity at any moment in t
 
 ## (++) The SPARC machine, October 2nd 2020
 
-Disclaimer: I have no affiliation with the SPARC team, nor have I done any research on the machine.
+Disclaimer: I have no affiliation with Commonwealth Fusion Systems or SPARC.
 
 In recent years, but particularly in the past week, there has been some seismic activity in the fusion community. On September 30 2020, one of the fusion startups, Commonwealth Fusion Systems (CFS), released the physics basis for its fusion reactor, SPARC (Smallest Possible Advanced Reactor Concept). The seven peer-reviewed papers are Open Access on the Journal of Plasma Physics [website](https://www.cambridge.org/core/journals/journal-of-plasma-physics/collections/status-of-the-sparc-physics-basis). In my opinion, SPARC and the way CFS has made most of its physics basis publicly available is a rather big deal for fusion, which I will proceed to explain. If you are a card carrying member of the fusion community, you may wish to skip to (^). Otherwise, you might find the preceding background useful.
 
