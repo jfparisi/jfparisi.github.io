@@ -1,5 +1,3 @@
-{% include mathjax.html %}
-
 ---
 layout: default
 mathjax: true
