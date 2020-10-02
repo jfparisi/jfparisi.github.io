@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Jason Parisi, Nuclear Fusion Physicist</title>
+		<title>Jason Parisi, Fusion Physicist</title>
 		<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 	</head>
