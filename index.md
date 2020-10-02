@@ -1,9 +1,4 @@
  <html>
-     <head>
-         <title>Jason Parisi, Nuclear Fusion Physicist</title>
-         <!-- link to main stylesheet -->
-         <link rel="stylesheet" type="text/css" href="/css/main.css">
-     </head>
      <body>
          <nav>
              <ul>
@@ -17,8 +12,7 @@
          </nav>
          <div class="container">
              <div class="blurb">
-                 <h1>Jason Parisi</h1>
-                 <p>Hi there, I am a Culham Fusion Research Fellow at the Culham Centre for Fusion Energy.</p>
+                 <p>Hello there. I am a theoretical physicist working on turbulence in fusion plasmas. Currently, I am a Culham Fusion Research Fellow at the Culham Centre for Fusion Energy. Previously, I was at the University of Oxford where I obtained my PhD, and at Yale University, where I obtained my undergraduate degree. </p>
              </div><!-- /.blurb -->
          </div><!-- /.container -->
          <footer>
