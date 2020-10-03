@@ -3,8 +3,6 @@ layout: post
 mathjax: true
 ---
 
-# Blog
-
 Here, I will write about physics that is piquing my curiosity at any moment in time. Most of the writing is plasma physics/ fusion physics-themed. The entries will be either publicly accessible (+), somewhat technical (++), or specialist (+++). These views are my own, and don't necessarily reflect those of my employer. Whenever I publish a new scientific paper, I will also release a video explanation of the main paper ideas.
 
 ## (++) The SPARC machine, October 2nd 2020
@@ -23,7 +21,11 @@ SPARC is a 'medium' sized tokamak (it's essentially the same size as the Korean 
 \begin{equation}
 P_{fus} \sim \frac{ \beta_N^2 B^4 R^3 }{ A^4}.
 \end{equation}
-This scaling is one of the main justification that SPARC and other high field devices have used to justify their claims of building smaller
+This scaling is one of the main justifications that SPARC and other high field devices have used to justify their claims of building smaller reactors with high magnetic fields. Here, $P_{fus}$ is the fusion power, $\beta_N$ is a dimensionless parameter that measures the ratio of thermal to magnetic energy, $B$ is the magnetic field strength, $R$ is the major radius of the device, and $A = R / a$ is the aspect ratio, where $a$ is the minor radius of the device. 
+
+Evidently, if one doubles the magnetic field strength, the fusion power increases by a factor of 16. So where does this 
+
+Materials...
 
 Arguably, in the meantime, strides have been made in computational and theoretical understanding of fusion physics, such that SPARC might not have been possible twenty years.
 
