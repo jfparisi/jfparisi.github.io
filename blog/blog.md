@@ -3,7 +3,7 @@ layout: post
 mathjax: true
 ---
 
-# Blog
+## Blog
 
 Here, I will write about physics that is piquing my curiosity at any moment in time. Most of the writing is plasma physics/ fusion physics-themed. The entries will be either publicly accessible (+), somewhat technical (++), or specialist (+++). These views are my own, and don't necessarily reflect those of my employer. Whenever I publish a new scientific paper, I will also release a video explanation of the main paper ideas.
 
