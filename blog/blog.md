@@ -21,10 +21,9 @@ One of the most stated claims of fusion research is that fusion reactors will mi
 
 SPARC is a 'medium' sized tokamak (it's essentially the same size as the Korean K-STAR device) that relies on recent advances in high temperature superconductors to generate on-axis magnetic fields that are almost four times as large as JET (Creely, 2020), and over twice that of ITER. Apparently, the joke at CFS is that high magnetic fields are the solution to all of our woes, which in this case, they may well be. High magnetic fields are claimed to be very useful for fusion, which will herald the creation of much smaller, cheaper, and faster-to-build fusion reactors. A scaling that you will see thrown around a lot is one for the total fusion power,
 \begin{equation}
-P_{fus} ~ \frac{ \beta_N^2 B^4 R^3 }{ A^4}.
+P_{fus} \sim \frac{ \beta_N^2 B^4 R^3 }{ A^4}.
 \end{equation}
-$$P_{fus} ~ \frac{ \beta_N^2 B^4 R^3 }{ A^4}.$$
-This scaling is useful 
+This scaling is one of the main justification that SPARC and other high field devices have used to justify their claims of building smaller
 
 Arguably, in the meantime, strides have been made in computational and theoretical understanding of fusion physics, such that SPARC might not have been possible twenty years.
 
