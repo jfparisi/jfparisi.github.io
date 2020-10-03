@@ -23,7 +23,7 @@ P_{fus} \sim \frac{ \beta_N^2 B^4 R^3 }{ A^4}.
 \end{equation}
 This scaling is one of the main justifications that SPARC and other high field devices have used to justify their claims of building smaller reactors with high magnetic fields. Here, $P_{fus}$ is the fusion power, $\beta_N$ is a dimensionless parameter that measures the ratio of thermal to magnetic energy, $B$ is the magnetic field strength, $R$ is the major radius of the device, and $A = R / a$ is the aspect ratio, where $a$ is the minor radius of the device. 
 
-Evidently, if one doubles the magnetic field strength, the fusion power increases by a factor of 16. So where does this 
+Evidently, if one doubles the magnetic field strength, the fusion power increases by a factor of 16. 
 
 Materials...
 
