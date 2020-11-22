@@ -3,8 +3,10 @@ layout: post
 mathjax: true
 ---
 
-Here, I will write about physics that is piquing my curiosity at any moment in time. Most of the writing is plasma physics/ fusion physics-themed. The entries will be either publicly accessible (+), somewhat technical (++), or specialist (+++). These views are my own, and don't necessarily reflect those of my employer. Whenever I publish a new scientific paper, I will also release a video explanation of the main paper ideas.
+Here, I will write about physics that is piquing my curiosity at any moment in time. Most of the writing is plasma physics/ fusion physics-themed. The entries will be either publicly accessible (+), somewhat technical (++), or specialist (+++). These views are my own, and don't necessarily reflect those of my employer. Whenever I publish a new scientific paper, I will also give an explanation of the main paper ideas.
 
+
+<!---
 ## (++) The SPARC machine, October 2nd 2020
 
 Disclaimer: I have no affiliation with Commonwealth Fusion Systems or SPARC.
@@ -28,3 +30,4 @@ Evidently, according to equation (1), if one doubles the magnetic field strength
 Materials...
 
 Arguably, in the meantime, strides have been made in computational and theoretical understanding of fusion physics, such that SPARC might not have been possible twenty years.
+-->
