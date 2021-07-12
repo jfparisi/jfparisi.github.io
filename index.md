@@ -8,6 +8,7 @@
          <nav>
              <ul>
               <li><a href="/">Home</a></li>
+              <li><a href="/">Research Projects</a></li>
               <li><a href="https://jfparisi.github.io/img/thesismain.pdf" target="_blank">Thesis</a></li>
               <li><a href="https://jfparisi.github.io/img/jasonParisi2021CV.pdf" target="_blank">CV</a></li>
               <li><a href="https://www.iter.org/newsline/-/3232">The Future of Fusion Energy</a></li>
