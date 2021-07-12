@@ -20,9 +20,5 @@
                  <p>In the early 2020s, nuclear fusion energy research is at a particularly exciting stage --- after a period of relative calm, in the next several years multiple important devices will finish contruction, which will demonstrate the scientific feasibility of magnetic confinement fusion. Two in particular to watch are ITER and SPARC. These two devices represent two different philosophies for how to build a first generation commerical reactor: massive and low magnetic field, or compact and high field. There are also a plethora of other startups and government projects doing very exciting work.</p>
              </div><!-- /.blurb -->
          </div><!-- /.container -->
-         <footer>
-             <ul>
-             </ul>
-         </footer>
      </body>
  </html>
