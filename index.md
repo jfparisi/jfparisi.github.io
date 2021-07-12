@@ -10,7 +10,7 @@
                  <li><a href="/">Home</a></li>
              <li><a href="/about/about.html/">About</a></li>
                  <li><a href="/cv/cv.html">CV</a></li>
-                 <li><a href="/thesis/thesis.html">CV</a></li>
+                 <li><a href="/thesis/thesis.html">Thesis</a></li>
                  <li><a href="/blog/blog.html">Blog</a></li>
              <li><a href="/research/research_projects/html">Research Projects</a></li>
              <li><a href="/book/book.html">The Future of Fusion Energy</a></li>
