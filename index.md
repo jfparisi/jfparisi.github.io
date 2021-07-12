@@ -1,9 +1,9 @@
- <html>
+<html>
       <head>
          <title>Jason Parisi, Nuclear Fusion Physicist</title>
          <!-- link to main stylesheet -->
          <link rel="stylesheet" type="text/css" href="/css/main.css">
-     </head>
+      </head>
      <body>
          <nav>
              <ul>
@@ -21,4 +21,4 @@
              </div><!-- /.blurb -->
          </div><!-- /.container -->
      </body>
- </html>
+</html>
